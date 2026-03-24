@@ -7,7 +7,7 @@ This project aims to show the analysis of the Python language as an open source 
 Script 1 – System identity report 
 Script 2 – Package inspector
 Script 3 – Disk and permission auditor
-Script 4 – Log file analyzer  
+Script 4 – Log file analyzer
 Script 5 – Manifesto generator
 ## How will you run
 chmod +x script.sh  
