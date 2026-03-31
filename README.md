@@ -31,8 +31,6 @@ The project contains 5 shell scripts:
 1. Open terminal (Linux / WSL)
 2. Change into the directory containing the scripts
 3. Set execute permission:
-   ```bash
    chmod +x script1.sh
 4. Run the script:
-   ```bash
-     ./script1.sh
+   ./script1.sh
